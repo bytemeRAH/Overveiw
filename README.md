@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**m3g4byt3s/m3g4byt3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a block tales opera gx mod
 - 🌱 I’m currently learning about github this place is kinda hard touse
 - 👯 I’m looking to collaborate on no one lol
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: guilded or discord user on both platforms is m3g4byt3s
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i make opera gx mods!
--->
