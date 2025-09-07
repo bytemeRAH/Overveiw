@@ -13,7 +13,5 @@
 - **8ToGo Linux Distro** – a developer-focused Linux distribution.  
 - **ReGuilded Web** - i recently quit this project but its basically vencord web but for the guilded website
 - **Block Tales** - no i do not own block tales I AM NOT A ROBLOX DEVELOPER  its a opera gx mod im making its also the first project i ever started on
-- **Better Discord Web** - i have been thinking about mkaing this ever since i quit ReGuilded web but im not sure (fyi: this project might get scrapped if i dont want to do it)
-  ---
+- **Better Discord Web** - i have been thinking about making this ever since i quit ReGuilded web but im not sure (fyi: this project might get scrapped if i dont want to do it)
 
-*Always exploring, always building.*  
