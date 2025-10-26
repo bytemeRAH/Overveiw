@@ -6,7 +6,7 @@
 - Sometimes I use **AI tools** to enhance and speed up my projects.  
 
 ## Contact Me
-- Discord: **libertyreall** *(this might change, but most likely will stay as "libertyreall")*  
+- Discord: **._.wawa._.**  
 
 ## Projects
 - **Block Tales** - no i do not own block tales I AM NOT A ROBLOX DEVELOPER  its a opera gx mod im making its also the first project i ever started on (canceled)
